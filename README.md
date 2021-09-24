@@ -1,4 +1,4 @@
-# Instalacion-de-Maven
+# Instalación-de-Maven
 
 
 Este repositorio está destinado a la instalación de Maven en Kubuntu
